@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container{
+	border:2px solid black;
+	margin:20px;
+	padding:20px;
+}
+.inner{
+	border:15px solid blue;
+}
+.light-blue{
+	background-color:lightblue;
+	padding: 50px;
+	border:2px solid blue;
+	
+}
+
+.light-blue-inner{
+	width:300px;
+	border:2px solid black;
+	padding:20px 10px;
+}
